@@ -1,1 +1,52 @@
-{"P001": {"name": "Ananya Verma", "city": "Delhi", "age": 28, "gender": "Female", "height": 1.65, "weight": 90, "bmi": 33.06, "verdict": "Obese"}, "P002": {"name": "Rohan Mehta", "city": "Mumbai", "age": 35, "gender": "Male", "height": 1.8, "weight": 72, "bmi": 22.22, "verdict": "Normal"}, "P003": {"name": "Sita Sharma", "city": "Kathmandu", "age": 42, "gender": "Female", "height": 1.58, "weight": 48, "bmi": 19.23, "verdict": "Normal"}, "P004": {"name": "Aman Gupta", "city": "Bengaluru", "age": 61, "gender": "Male", "height": 1.72, "weight": 85, "bmi": 28.73, "verdict": "Overweight"}, "P005": {"name": "Priya Nair", "city": "Chennai", "age": 30, "gender": "Female", "height": 1.68, "weight": 60, "bmi": 21.26, "verdict": "Normal"}, "P007": {"name": "raju", "city": "nepal", "age": 23, "gender": "male", "height": 1.74, "weight": 63.0, "bmi": 20.81, "verdict": "Normal"}}
+{
+    "P001": {
+        "name": "Ananya Verma",
+        "city": "Delhi",
+        "age": 28,
+        "gender": "Female",
+        "height": 1.65,
+        "weight": 90,
+        "bmi": 33.06,
+        "verdict": "Obese"
+    },
+    "P002": {
+        "name": "Rohan Mehta",
+        "city": "Mumbai",
+        "age": 35,
+        "gender": "Male",
+        "height": 1.8,
+        "weight": 72,
+        "bmi": 22.22,
+        "verdict": "Normal"
+    },
+    "P003": {
+        "name": "Sita Sharma",
+        "city": "Kathmandu",
+        "age": 42,
+        "gender": "Female",
+        "height": 1.58,
+        "weight": 48,
+        "bmi": 19.23,
+        "verdict": "Normal"
+    },
+    "P004": {
+        "name": "Aman Gupta",
+        "city": "Bengaluru",
+        "age": 61,
+        "gender": "Male",
+        "height": 1.72,
+        "weight": 85,
+        "bmi": 28.73,
+        "verdict": "Overweight"
+    },
+    "P005": {
+        "name": "raju",
+        "city": "Chennai",
+        "age": 30,
+        "gender": "female",
+        "height": 1.68,
+        "weight": 60.0,
+        "bmi": 21.26,
+        "verdict": "Normal"
+    }
+}
